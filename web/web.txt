@@ -1,0 +1,16 @@
+How does the internet work?
+
+    The internet is a collection of servers. Web pages are files stored in servers. Every server has a unique IP address. These IP addresses help computers find each other. Our laptops aren't directly 
+    connected to the internet. Our laptops are connected indirectly through an ISP. So we connect to the internet through DSl that then connects to an ISP that then connects to the 
+    desired server on the internet. 
+    Any data or information sent to ISPs is funneled through machines called routers. These routers are responsible for sending data to the right location. 
+
+What happens when you click on a link?
+
+    When you click on a link, the following steps are followed:
+        Initial request (link clicked, URL visited) 
+        Request reaches app server
+        App code finishes execution
+        Browser receives HTML, begins processing
+        HTML processing finishes
+        Page rendered in browser
